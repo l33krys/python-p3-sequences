@@ -4,7 +4,7 @@ def print_fibonacci(length):
     arr = []
     if length == 0:
         arr
-    elif length ==1:
+    elif length == 1:
         arr.append(0)
     elif length >= 2:
         i = 0
